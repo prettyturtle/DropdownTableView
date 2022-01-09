@@ -18,4 +18,4 @@
     - 닫혀있는 섹션의 셀의 개수는 0을 리턴하면 된다
 
 ### 결과
-![](/DropdownTableView/dropdownResult.gif)
+![](/dropdownResult.gif)
